@@ -1,0 +1,17 @@
+
+
+// Declaración de una variable 
+VARIABLE  contador = 0;
+
+
+// Comienzo del ciclo while 
+WHILE  contador <= 2 
+
+	// Entrada de datos  del usuario 
+    VARIABLE dato = INPUT
+
+    // INcremento de la variable contador
+    contador = contador + 1;
+
+// Fin del bucle 
+ENDWHILE

@@ -1,0 +1,8 @@
+Design a while loop thet lest the user enter number. The number should be multiplied by 10 , and the result stored in a variable named product. The loop ahould iterate as long as product contains a value less than 100
+
+Design a Do While loop that asks the user to enter two numbers. The numbers sholuld be added and the sum displayed. The loop should ask the user whether he or she wishes to perform the operation again. If so, the loop sghould repeat: otherwise it should terminate  
+
+
+Diseñe un bucle while para que el usuario introduzca un número. El número debe multiplicarse por 10 y el resultado debe almacenarse en una variable denominada producto. El ciclo debe repetirse siempre que el producto contenga un valor menor que 100.
+
+Diseñe un bucle Do While que le pida al usuario que ingrese dos números. Deben sumarse los números y mostrarse la suma. El bucle debe preguntar al usuario si desea volver a realizar la operación. Si es así, el bucle debería repetirse; de ​​lo contrario, debería terminar
